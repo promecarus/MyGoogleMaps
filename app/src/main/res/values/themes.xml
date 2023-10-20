@@ -1,0 +1,6 @@
+<resources>
+
+	<style name="Base.Theme.MyGoogleMaps" parent="Theme.Material3.DayNight.NoActionBar" />
+
+	<style name="Theme.MyGoogleMaps" parent="Base.Theme.MyGoogleMaps" />
+</resources>
